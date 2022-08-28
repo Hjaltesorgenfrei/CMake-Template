@@ -18,4 +18,6 @@ endif()
 
 add_subdirectory(shared)
 add_subdirectory(main)
+
+enable_testing()
 add_subdirectory(tests)
